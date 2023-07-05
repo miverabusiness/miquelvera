@@ -24,7 +24,7 @@
 
   --container-width-lg: 75%;
   --container-width-md: 96%;
-  --comtaimer-width-ms: 90%;
+  --container-width-sm: 90%;
 }
 
 html {
@@ -45,7 +45,7 @@ body {
 
 /* ========== GENERAL STYLES ========== */
 .container {
-  width: var(--comtaimer-width-lg);
+  width: var(--container-width-lg);
   margin: 0 auto;
 }
 

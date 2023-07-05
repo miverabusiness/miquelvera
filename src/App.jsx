@@ -21,7 +21,6 @@ const App = () => {
       <Testimonials />
       <Contact />
       <Footer />
-      <p><i>Esto es un texto de ejemplo...</i></p>
     </div>
   )
 }
