@@ -22,7 +22,7 @@ const About = () => {
 						<article className="about__card">
 							<FaAward className="about__icon" />
 							<h5>Experience</h5>
-							<small>3+ Years Working Experience</small>
+							<small>1+ Year Working Experience</small>
 						</article>
 
 						<article className="about__card">
@@ -38,10 +38,10 @@ const About = () => {
 						</article>
 					</div>
 
+					<p>I am a passionate full-stack web developer with over a year of experience.</p>
 					<p>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo beatae, expedita nulla, suscipit voluptas natus voluptatem
-						reprehenderit sit ducimus consequuntur pariatur repellat. Dolore accusantium delectus iusto, provident ratione laudantium
-						facilis.
+						Dedicated to keep on learning different technologies and methodologies, with the ambition to write clean and readable code,
+						both independently and as part of a team. I strive to promote a pleasant and positive work environment.
 					</p>
 
 					<a href="#contact" className="btn btn-primary">
